@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Comprehensive contributing guidelines with MetaContext-enriched documentation
+- Detailed feedback loops and evolution patterns documentation
+- Community engagement patterns and integration process guidelines
+
+### Enhanced
+- Expanded Contributing section in README with specific community focus areas
+
 ## [0.1.0] - 2024-12-26
 
 ### Added

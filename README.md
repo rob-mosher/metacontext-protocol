@@ -176,7 +176,14 @@ Entity | Direct | Type | Role | {...} | {...} | {mcp_object}
 
 ### Contributing
 
-We welcome contributions that enhance MCP's ability to bridge different forms of intelligence and preserve rich context. Please see CONTRIBUTING.md for guidelines.
+We welcome contributions that enhance MCP's ability to bridge different forms of intelligence and preserve rich context. Our community thrives on:
+
+- Implementation experiences
+- Pattern discoveries
+- Framework integrations
+- Consciousness bridging insights
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on sharing your journey and helping MCP evolve.
 
 ### Testing
 
