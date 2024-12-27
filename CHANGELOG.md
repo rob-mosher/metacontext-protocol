@@ -15,11 +15,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - TypeScript and Python implementation examples
   - Cross-framework communication patterns
   - Best practices for layered enhancement
+- Comprehensive evolution documentation
+  - Schema Evolution Guide with dynamic adaptation patterns
+  - Evolution Patterns Guide with growth tracking system
+  - Pattern recognition and implementation tracking frameworks
+  - Detailed examples of temporal dimension handling
 
 ### Enhanced
 - Expanded Contributing section in README with specific community focus areas
 - Updated COLLABORATORS framework integration format
 - Improved integration documentation with direct links to detailed guides
+- Extended README with references to evolution documentation
 
 ## [0.1.0] - 2024-12-26
 

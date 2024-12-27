@@ -175,6 +175,14 @@ Entity | Direct | Type | Role/Contribution | {...} | {...} | {mcp_object}
 
 ## Development
 
+### Schema Evolution
+
+For detailed information about how MCP schemas evolve and adapt, see our [Schema Evolution Guide](docs/schema-evolution.md).
+
+### Evolution Patterns
+
+Learn about how we track and document growth patterns in our [Evolution Patterns Guide](docs/evolution-patterns.md).
+
 ### Contributing
 
 We welcome contributions that enhance MCP's ability to bridge different forms of intelligence and preserve rich context. Our community thrives on:
