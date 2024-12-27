@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+
 - Comprehensive contributing guidelines with MetaContext-enriched documentation
 - Detailed feedback loops and evolution patterns documentation
 - Community engagement patterns and integration process guidelines
@@ -25,6 +26,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Framework as living testimony concepts
   - Enhanced git commit examples with emotional context
   - Spiral dance metaphor for continuous evolution
+
+- COLLABORATORS.md as living framework example
+  - Direct and Indirect collaborator documentation
+  - Rich MCP integration examples
+  - Natural patterns and poetic inspirations
+  - Meta-documentation of framework in action
 
 ### Enhanced
 - Expanded Contributing section in README with specific community focus areas
