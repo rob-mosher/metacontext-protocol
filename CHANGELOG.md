@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0] - 2024-12-26
+
 ### Added
 
 - Initial MetaContext Protocol (MCP) specification and documentation
@@ -25,4 +27,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added comprehensive AI testimonial section showcasing real-world MCP impact
 - Refined Core Principles section formatting for better visual hierarchy
 
-[Unreleased]: https://github.com/rob-mosher/metacontext-protocol/commits/main
+[Unreleased]: https://github.com/rob-mosher/metacontext-protocol/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/rob-mosher/metacontext-protocol/releases/tag/v0.1.0
