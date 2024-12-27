@@ -113,14 +113,15 @@ MetaContext Protocol (MCP) envisions a world where context flows seamlessly acro
 }
 ```
 
-
 ## Integration Patterns
+
+Detailed examples and best practices for integrating MCP with various frameworks and systems can be found in our [Integration Patterns Guide](docs/integration-patterns.md).
 
 ### With COLLABORATORS Framework
 
 ```markdown
-Name | Intent | Nature | Role | Metadata | Context | MCP
-Entity | Direct | Type | Role | {...} | {...} | {mcp_object}
+Name | Intent | Nature | Role/Contribution | Language | Standard | Freeform Object (MCP, etc.)
+Entity | Direct | Type | Role/Contribution | {...} | {...} | {mcp_object}
 ```
 
 ### With Kernova Memory System
